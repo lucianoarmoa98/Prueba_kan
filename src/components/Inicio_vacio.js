@@ -11,4 +11,4 @@ const Inicio_vacio = () => {
     );
 };
 
-export default Inicio_vacio;
+export default Inicio_vacio; 
